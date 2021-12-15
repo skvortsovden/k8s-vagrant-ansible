@@ -1,5 +1,7 @@
 # Kubernetes Setup Using Ansible and Vagrant
 
+Kubernetes version: [1.22.0-00](https://github.com/kubernetes/kubernetes/blob/master/CHANGELOG/CHANGELOG-1.22.md#v1220)
+
 Reference blog post: https://kubernetes.io/blog/2019/03/15/kubernetes-setup-using-ansible-and-vagrant/
 
 ## Prerequisites
