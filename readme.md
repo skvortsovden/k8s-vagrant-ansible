@@ -31,3 +31,20 @@ For macOS:
 ```cmd
 brew install ansible@2.12.1
 ```
+
+## Create cluster
+
+```
+cd ./k8s-vagrant-ansible
+```
+
+```
+vagrant up
+```
+
+## Delete cluster
+
+
+```
+vagrant destroy
+```
